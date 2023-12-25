@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+    gap: 10px;
+}
+#sum{
+    width: 200px;
+    height: 30px;
+    font-size: 18px;
+    border: black 2px solid;
+    border-radius: 5px;
+}
+#valyuta{
+    width: 80px;
+    height: 36px;
+    font-size: 18px;
+    border: black 2px solid;
+    border-radius: 5px;
+}
+#btn{
+    width: 100px;
+    height: 36px;
+    font-size: 18px;
+    border: black 2px solid;
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+    margin-right: 20px;
+}
